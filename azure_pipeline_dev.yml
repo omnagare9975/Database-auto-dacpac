@@ -1,8 +1,8 @@
 trigger:
-- master #
+- dev-omnagare #
 
 pool:
-  vmImage: 'windows-latest'
+  name: 'Windows-Based'
 
 variables:
   solution: '**/Database-auto.sln'
