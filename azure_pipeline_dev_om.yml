@@ -1,5 +1,5 @@
 trigger:
-- dev-omnagare #
+- dev-omnagare #3
 
 pool:
   name: 'Windows-Based'
